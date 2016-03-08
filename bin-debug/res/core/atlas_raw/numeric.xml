@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7edd1d7be80803e4675853e7c66e4fac:f70115adfa72c1c1361609844eafc69c:324784cd6fcf0679aff760475084ae43$ -->
+<TextureAtlas imagePath="numeric.png">
+    <SubTexture name="01" x="350" y="2" width="53" height="53" frameX="-2" frameY="-3" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="02" x="405" y="2" width="53" height="53" frameX="-2" frameY="-3" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="03" x="179" y="2" width="55" height="55" frameX="0" frameY="-1" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="04" x="236" y="2" width="55" height="55" frameX="-2" frameY="-1" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="05" x="2" y="2" width="57" height="57"/>
+    <SubTexture name="06" x="61" y="2" width="57" height="57"/>
+    <SubTexture name="07" x="120" y="2" width="57" height="57"/>
+    <SubTexture name="08" x="293" y="2" width="55" height="55" frameX="0" frameY="-1" frameWidth="57" frameHeight="57"/>
+</TextureAtlas>
